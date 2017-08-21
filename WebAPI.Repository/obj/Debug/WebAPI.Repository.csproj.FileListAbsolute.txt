@@ -1,0 +1,9 @@
+D:\MVC Project\WebAPI\WebAPI.Repository\bin\Debug\WebAPI.Repository.dll
+D:\MVC Project\WebAPI\WebAPI.Repository\bin\Debug\WebAPI.Repository.pdb
+D:\MVC Project\WebAPI\WebAPI.Repository\bin\Debug\WebAPI.Entity.dll
+D:\MVC Project\WebAPI\WebAPI.Repository\bin\Debug\WebAPI.Entity.pdb
+D:\MVC Project\WebAPI\WebAPI.Repository\obj\Debug\WebAPI.Repository.csprojResolveAssemblyReference.cache
+D:\MVC Project\WebAPI\WebAPI.Repository\obj\Debug\WebAPI.Repository.dll
+D:\MVC Project\WebAPI\WebAPI.Repository\obj\Debug\WebAPI.Repository.pdb
+D:\MVC Project\WebAPI\WebAPI.Repository\bin\Debug\WebAPI.IRepository.dll
+D:\MVC Project\WebAPI\WebAPI.Repository\bin\Debug\WebAPI.IRepository.pdb

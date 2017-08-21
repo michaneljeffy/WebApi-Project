@@ -1,0 +1,7 @@
+D:\MVC Project\WebAPI\WebAPI.IServices\bin\Debug\WebAPI.IServices.dll
+D:\MVC Project\WebAPI\WebAPI.IServices\bin\Debug\WebAPI.IServices.pdb
+D:\MVC Project\WebAPI\WebAPI.IServices\bin\Debug\WebAPI.Entity.dll
+D:\MVC Project\WebAPI\WebAPI.IServices\bin\Debug\WebAPI.Entity.pdb
+D:\MVC Project\WebAPI\WebAPI.IServices\obj\Debug\WebAPI.IServices.csprojResolveAssemblyReference.cache
+D:\MVC Project\WebAPI\WebAPI.IServices\obj\Debug\WebAPI.IServices.dll
+D:\MVC Project\WebAPI\WebAPI.IServices\obj\Debug\WebAPI.IServices.pdb

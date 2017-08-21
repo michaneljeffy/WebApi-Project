@@ -1,0 +1,4 @@
+D:\MVC Project\WebAPI\WebAPI.Entity\bin\Debug\WebAPI.Entity.dll
+D:\MVC Project\WebAPI\WebAPI.Entity\bin\Debug\WebAPI.Entity.pdb
+D:\MVC Project\WebAPI\WebAPI.Entity\obj\Debug\WebAPI.Entity.dll
+D:\MVC Project\WebAPI\WebAPI.Entity\obj\Debug\WebAPI.Entity.pdb
